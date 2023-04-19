@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity projects and Information Technology projects:</h2>
 
-- <b>Azure / Cloud projects</b>
+- <b>Azure / Cloud Cybersecurity projects</b>
 - [Creating a live SOC/Honeynet in Azure](https://github.com/Cesarb1995/Azure-SOC)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Cesarb1995/osticket-prereqs)
