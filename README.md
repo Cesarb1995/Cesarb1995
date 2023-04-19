@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cesar, a passionate Cybersecurity Profesional and <a href="https://www.linkedin.com/in/cesar-barrera-a78075255/">IT Professional</a></h1>
+<h1>Hi, I'm Cesar, a passionate Cybersecurity and <a href="https://www.linkedin.com/in/cesar-barrera-a78075255/">IT Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity projects and Information Technology projects:</h2>
 
