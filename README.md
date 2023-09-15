@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Cesarb1995/Azure-SOC)
+
 -<b>Azure / Vulnerability Management project<b>
   - [OpenVas Vulnerability scanner]
 - <b>osTicket (Help Desk Ticketing System)</b>
