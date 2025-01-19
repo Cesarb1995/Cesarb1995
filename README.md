@@ -4,7 +4,7 @@
 
 - <b>Security Operations and Incident Response</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Cesarb1995/Azure-SOC)
-  - [Threat Hunting](https://github.com/Cesarb1995/Threat-Hunting-Scenario-Tor?tab=readme-ov-file)
+  - [Threat Hunting and Incident Response](https://github.com/Cesarb1995/Threat-Hunting-Scenario-Tor?tab=readme-ov-file)
 - <b>Azure / Vulnerability Management project<b>
   - [OpenVas Vulnerability scanner](https://github.com/Cesarb1995/Azure-Vulnerability-Management/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
