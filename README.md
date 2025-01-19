@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity projects and Information Technology projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity projects</b>
+- <b>Security Operations and Incident Response</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Cesarb1995/Azure-SOC)
 - <b>Azure / Vulnerability Management project<b>
   - [OpenVas Vulnerability scanner](https://github.com/Cesarb1995/Azure-Vulnerability-Management/blob/main/README.md)
